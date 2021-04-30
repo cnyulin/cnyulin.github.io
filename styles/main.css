@@ -2053,13 +2053,13 @@ body {
         margin: 0 auto;
       }
     body {
-      color: #555;
+      color: #5f3dc4;
     }
     .next-md-body {
-      color: #555;
+      color: #5f3dc4;
     }
     .next-md-body h1, .next-md-body h2 {
-      border-bottom-color: #555;
+      border-bottom-color: #5f3dc4;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
