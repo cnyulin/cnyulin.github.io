@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://12574937.github.io</id>
+    <id>https://cnyulin.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-30T00:40:28.651Z</updated>
+    <updated>2021-04-30T00:47:05.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://12574937.github.io"/>
-    <link rel="self" href="https://12574937.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cnyulin.github.io"/>
+    <link rel="self" href="https://cnyulin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://12574937.github.io/images/avatar.png</logo>
-    <icon>https://12574937.github.io/favicon.ico</icon>
+    <logo>https://cnyulin.github.io/images/avatar.png</logo>
+    <icon>https://cnyulin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[的非官方成功]]></title>
-        <id>https://12574937.github.io/post/de-fei-guan-fang-cheng-gong/</id>
-        <link href="https://12574937.github.io/post/de-fei-guan-fang-cheng-gong/">
+        <id>https://cnyulin.github.io/post/de-fei-guan-fang-cheng-gong/</id>
+        <link href="https://cnyulin.github.io/post/de-fei-guan-fang-cheng-gong/">
         </link>
         <updated>2021-04-30T00:20:37.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://12574937.github.io/post-images/1619742160271.png" alt="" loading="lazy">的风格</p>
+        <content type="html"><![CDATA[<p><img src="https://cnyulin.github.io/post-images/1619742160271.png" alt="" loading="lazy">的风格</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea77777777777777]]></title>
-        <id>https://12574937.github.io/post/hello-gridea/</id>
-        <link href="https://12574937.github.io/post/hello-gridea/">
+        <id>https://cnyulin.github.io/post/hello-gridea/</id>
+        <link href="https://cnyulin.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
