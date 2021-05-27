@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.tryuhu235.tk</id>
+    <title>节点订阅每日分享</title>
+    <updated>2021-05-27T11:33:42.522Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.tryuhu235.tk"/>
+    <link rel="self" href="https://www.tryuhu235.tk/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://www.tryuhu235.tk/images/avatar.png</logo>
+    <icon>https://www.tryuhu235.tk/favicon.ico</icon>
+    <rights>All rights reserved 2021, 节点订阅每日分享</rights>
+</feed>
