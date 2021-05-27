@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tryuhu235.tk</id>
     <title>节点订阅每日分享</title>
-    <updated>2021-05-27T11:41:58.163Z</updated>
+    <updated>2021-05-27T11:46:17.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.tryuhu235.tk"/>
     <link rel="self" href="https://www.tryuhu235.tk/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://www.tryuhu235.tk/images/avatar.png</logo>
     <icon>https://www.tryuhu235.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, 节点订阅每日分享</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年5月21更新 免费节点、科学上网（翻墙）节点，直接免费使用，一键导入v2rayNG]]></title>
+        <id>https://www.tryuhu235.tk/post/2021-nian-5-yue-21-geng-xin-mian-fei-jie-dian-ke-xue-shang-wang-fan-qiang-jie-dian-zhi-jie-mian-fei-shi-yong-yi-jian-dao-ru-v2rayng/</id>
+        <link href="https://www.tryuhu235.tk/post/2021-nian-5-yue-21-geng-xin-mian-fei-jie-dian-ke-xue-shang-wang-fan-qiang-jie-dian-zhi-jie-mian-fei-shi-yong-yi-jian-dao-ru-v2rayng/">
+        </link>
+        <updated>2021-05-27T11:43:34.000Z</updated>
+        <content type="html"><![CDATA[<p>免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点   所有资源都爬取自网络免费资源，请勿用于非法用途</p>
+]]></content>
+    </entry>
 </feed>
