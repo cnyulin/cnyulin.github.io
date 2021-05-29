@@ -9642,6 +9642,16 @@ div.articles article.bgstyle .article-wrapper {
     max-width: 1100px;
 }
 
+.author-meta {
+    border-top: 0.0000px solid #F4F4F4;
+    margin: 0 -20px;
+    padding: 15px 20px;
+    line-height: 1;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
+
 
 #single.fullcover .featured-image {
     height: 0.00001px;
@@ -9679,5 +9689,7 @@ div.articles article.bgstyle .article-wrapper {
     color: #fff;
     z-index: 3;
     text-shadow: 0px 2px 0px rgb(0 0 0 / 30%);
+
+
 
     
