@@ -9626,7 +9626,9 @@ photos .photo:last-child {
   padding-top: 8px;
 }
 
-      #header .logo a img, .logo a img {
+      
+
+#header .logo a img, .logo a img {
     width: 230px;
     display: block;
     max-width: 100%;
@@ -9635,6 +9637,17 @@ photos .photo:last-child {
 }
 div.articles article.bgstyle a {
     color: #333;
+}
+#single section.related article div.info, #single.fullcover section.related article .featured-image .top, #single.fullcover .featured-image section.related article .top {
+    position: absolute;
+    left: 0;
+    top: 0.1%;
+    right: 0;
+    text-align: center;
+    padding: 0.1px;
+    color: #fff;
+    z-index: 3;
+    text-shadow: 0px 2px 0px rgb(0 0 0 / 30%);
 }
 
 
@@ -9688,6 +9701,7 @@ div.articles article.bgstyle a {
 
 
 #single section.related article div.info, #single.fullcover section.related article .featured-image .top, #single.fullcover .featured-image section.related ar
+
 
 
 
