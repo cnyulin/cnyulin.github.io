@@ -9626,7 +9626,7 @@ photos .photo:last-child {
   padding-top: 8px;
 }
 
-      
+       
 
 #header .logo a img, .logo a img {
     width: 230px;
@@ -9635,6 +9635,7 @@ photos .photo:last-child {
     height: auto;
     margin: 0 auto;
 }
+  
 div.articles article.bgstyle a {
     color: #333;
 }
@@ -9698,7 +9699,6 @@ div.articles article.bgstyle a {
     color: #333;
 }
 }
-
 
 #single section.related article div.info, #single.fullcover section.related article .featured-image .top, #single.fullcover .featured-image section.related ar
 
