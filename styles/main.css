@@ -9626,86 +9626,36 @@ photos .photo:last-child {
   padding-top: 8px;
 }
 
-       
+      #single.fullcover .featured-image {
+    height: 0.0001px;
+    position: relative;
+    z-index: 1;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+#header div.menu-wrapper {
+    padding: 10px 0px 0;
+}
 
 #header .logo a img, .logo a img {
-    width: 230px;
+    width: 180px;
     display: block;
     max-width: 100%;
     height: auto;
     margin: 0 auto;
 }
-  
-div.articles article.bgstyle a {
-    color: #333;
-}
-#single section.related article div.info, #single.fullcover section.related article .featured-image .top, #single.fullcover .featured-image section.related article .top {
-    position: absolute;
-    left: 0;
-    top: 0.1%;
-    right: 0;
-    text-align: center;
-    padding: 0.1px;
-    color: #fff;
-    z-index: 3;
-    text-shadow: 0px 2px 0px rgb(0 0 0 / 30%);
+
+.content {
+    margin-top: 10px;
 }
 
 
-div.articles article.bgstyle .article-wrapper {
-    padding-top: 15px;
-}
-
-.grid-container {
-    max-width: 1100px;
-}
-
-.author-meta {
-    border-top: 0.0000px solid #F4F4F4;
-    margin: 0 -20px;
-    padding: 15px 20px;
-    line-height: 1;
-    font-size: 14px;
-    font-weight: 500;
-    letter-spacing: 0.3px;
-}
-
-
-#single.fullcover .featured-image {
-    height: 0.00001px;
-    position: relative;
-    z-index: 1;
-    border-radius: 15px;
-    overflow: hidden;
-    margin-bottom: 1px;
-}
-
-#header div.menu-wrapper {
-    padding: 25px 0px 0;
-}
-
-#header div.border {
-    border-bottom: 2px solid rgba(255, 255, 255, 0.25);
-    margin-top: 30px;
-}
-
- div.articles article .main-title {
-    font-size: 15px;
+div.articles article .main-title {
+    font-size: 16px;
     margin-bottom: 10px;
     margin-top: 5px;
-    line-height: 1.35;
-
-div.articles article.bgstyle a {
-    color: #333;
+    line-height: 0.0001;
 }
-}
-
-#single section.related article div.info, #single.fullcover section.related article .featured-image .top, #single.fullcover .featured-image section.related ar
-
-
-
-
-
-
-
     
